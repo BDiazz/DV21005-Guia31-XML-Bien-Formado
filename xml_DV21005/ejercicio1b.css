@@ -1,0 +1,64 @@
+fichero{
+    background-color: #4d3056;
+}
+
+ficha::before{
+    display: block;
+    content: attr(id) " - " attr(fechaingreso);
+    color: #ecf783;
+    font-weight: bold;
+    margin-bottom: 15px;
+    text-align: center;
+    font-size: 30px;
+}
+
+ficha{
+    display: block;
+    background-color: #733a63;
+    border: 1px solid black;
+    border-radius: 8px;
+    box-shadow: 1px 1px 19px #ab4f75;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    width: 50%;
+    height: 50%;
+    margin: auto;
+    margin-top: 25px;
+    font-size: 24px;
+    text-align: left;
+    padding-left: 15px;
+}
+
+telefono,
+direccion,
+email,
+url,
+dui{
+    display: block;
+    color: #ffa89a;
+    font-weight: normal;
+    font-size: 24px;
+    margin-bottom: 10px;
+    text-align: left;
+}
+
+nombre, apellido{
+    color: #ffa89a;
+    font-weight: normal;
+    font-size: 24px;
+    text-align: left;
+}
+
+direccion{
+    margin-top: 10px;
+}
+
+enlace a{
+    display: block;
+    margin-bottom: 10px;
+    color: #ffa89a;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 24px;
+}

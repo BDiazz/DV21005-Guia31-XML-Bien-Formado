@@ -1,0 +1,47 @@
+.container{
+    background-color: #000007;
+    text-align: center;
+}
+
+body{
+    background-color: #121c3b !important;
+}
+
+div{
+    background-color: #18284b;
+    color: #cec6ff;
+    font-size: 20px;
+}
+
+h1{
+    padding-top: 10px;
+}
+
+.row{
+    height: 100vh;
+}
+
+details ul li{
+    list-style: none;
+}
+
+details ul li a{
+    text-decoration: none;
+    color: #cec6ff;
+}
+details{
+    font-size: 20px;
+}
+
+summary{
+    font-size: 24px;
+}
+
+p{
+    border-bottom: 1px solid #cec6ff;
+    padding-top: 10px;
+}
+
+details[open] summary{
+    font-weight: bold;
+}
