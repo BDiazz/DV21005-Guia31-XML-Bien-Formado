@@ -25,10 +25,13 @@ details ul li{
     list-style: none;
 }
 
-details ul li a{
+details ul li a, div a{
     text-decoration: none;
     color: #cec6ff;
+    transition: 0.3s ease;
 }
+
+
 details{
     font-size: 20px;
 }
@@ -44,4 +47,8 @@ p{
 
 details[open] summary{
     font-weight: bold;
+}
+
+details:hover, div a:hover{
+    color: #28bdea;
 }

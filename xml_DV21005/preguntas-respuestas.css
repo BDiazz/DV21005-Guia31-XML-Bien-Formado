@@ -1,0 +1,44 @@
+fichero{
+    background-color: #4d3056;
+}
+
+
+conclusion{
+    display: block;
+    background-color: #733a63;
+    border: 1px solid black;
+    border-radius: 8px;
+    box-shadow: 1px 1px 19px #ab4f75;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    width: 50%;
+    height: 50%;
+    margin: auto;
+    margin-top: 25px;
+    font-size: 24px;
+    text-align: center;
+    padding: 15px;
+}
+
+pregunta, respuesta{
+    display: block;
+    color: #ffa89a;
+    font-weight: normal;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+pregunta{
+    font-weight: bold;
+    color:#ecf783;
+}
+
+
+enlace a{
+    display: block;
+    margin-bottom: 10px;
+    color: #ffa89a;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 24px;
+}

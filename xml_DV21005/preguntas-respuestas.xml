@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="preguntas-respuestas.css" ?>
+<!-- ejemplo1.xml  DV21005-->
+<fichero>
+<conclusion>
+<pregunta>¿A partir del ejemplo 1 y ejercicios desarrollados hasta el momento que puede concluir?</pregunta>
+<respuesta>El ejemplo me hizo darme cuenta de la importancia de seguir una estructura bien formada para asegurar la interoperabilidad y legibilidad del documento, sin la necesidad de una DTD.</respuesta>
+</conclusion>
+
+<conclusion>
+<pregunta>¿A partir del ejemplo 2 y ejercicios desarrollados hasta el momento que puede concluir?</pregunta>
+<respuesta>La estructura de árbol me hizo comprender la capacidad para representar datos de manera jerárquica y estructurada.</respuesta>
+</conclusion>
+
+<conclusion>
+<pregunta> ¿A partir de los ejercicios desarrollados en esta sección II.3 que puede concluir?</pregunta>
+<respuesta>JSON es extremadamente flexible, lo que permite convertir objetos entre distintos lenguajes de programación. En este caso, se realizó una transformación entre XML y JSON, y también se puede hacer en sentido inverso.</respuesta>
+</conclusion>
+
+<conclusion>
+<pregunta> ¿A partir de los ejemplos/ejercicios CSS desarrollados, qué puede concluir?</pregunta>
+<respuesta>
+Así como es posible aplicar estilos a una página web en HTML, también se puede hacer lo mismo con un documento XML, demostrando que las hojas de estilo no están limitadas únicamente al uso con HTML</respuesta>
+</conclusion>
+<enlace>
+<a xmlns="http://www.w3.org/1999/xhtml" href="../index.html">Regresar al index</a>
+</enlace>
+</fichero>
